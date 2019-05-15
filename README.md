@@ -21,7 +21,7 @@ Unit 7 - Project One
 
 Unit 11 | Assignment - Web Visualization Dashboard (Latitude)
 Repo: https://github.com/khanoftexas/latitude
-URL for dashboard: https://latitude.loney.io/
+URL for dashboard: https://khanoftexas.github.io/latitude
 
 Unit 12 | Assignment - Mission to Mars Web Scraping & Databases
 Repo: https://github.com/khanoftexas/Mission-To-Mars
