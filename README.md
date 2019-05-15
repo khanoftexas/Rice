@@ -27,6 +27,7 @@ Repo: https://github.com/khanoftexas/MySQL_Sakila
 Repo: https://github.com/khanoftexas/VacationInHawaii
 
 11 | Assignment - Web Visualization Dashboard (Latitude)
+
 Repo: https://github.com/khanoftexas/latitude
 URL for dashboard: https://khanoftexas.github.io/latitude
 
