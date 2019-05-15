@@ -13,7 +13,7 @@
 
 6 | Assignment - What's the Weather Like?<br />Repo: https://github.com/khanoftexas/weatherpy
 
-7 - 8 | Project One
+7 - 8 | Project One - Los Angeles Crime Statistics <br> Group Members: Ehsan Khan, Frederick De Briyker, Jeff Mackey  <br/>https://github.com/frederikdebruyker/Los-Angeles-Crime-Statistics
 
 
 9 | Assignment - My SQL<br />Repo: https://github.com/khanoftexas/MySQL_Sakila
@@ -25,4 +25,4 @@
 
 12 | Assignment - Mission to Mars Web Scraping & Databases<br />  Repo: https://github.com/khanoftexas/Mission-To-Mars
 
-13 | Project Two - ETL<br />Repo: https://github.com/khanoftexas/etl
+13 | Project Two - Endangered Animals - ETL<br> Group Members: Ehsan Khan, Jeff Mackey, Lei Kang, Saurav Mitra <br />Repo: https://github.com/khanoftexas/etl
