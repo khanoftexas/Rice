@@ -6,11 +6,9 @@
 2 | Assignment - The VBA of Wall Street
 
 3 | Assignment - Py Me Up, Charlie
-
 Repo: https://github.com/khanoftexas/python-challenge
 
 4 | Assignment - Pandas, Pandas, Pandas
-
 Repo: https://github.com/khanoftexas/PyCitySchools
 
 5 | Assignment - The Power of Plots
