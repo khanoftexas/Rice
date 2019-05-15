@@ -1,9 +1,9 @@
 
 # Rice University Data Analytics Bootcamp
 
-1 | Assignment - KickStart My Chart
+1 | Assignment - KickStart My Chart<br/>https://github.com/khanoftexas/DataAnalytics
 
-2 | Assignment - The VBA of Wall Street
+2 | Assignment - The VBA of Wall Street<br/>https://github.com/khanoftexas/DataAnalytics
 
 3 | Assignment - Py Me Up, Charlie<br /> Repo: https://github.com/khanoftexas/python-challenge
 
