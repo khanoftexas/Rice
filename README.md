@@ -26,3 +26,5 @@
 12 | Assignment - Mission to Mars Web Scraping & Databases<br />  Repo: https://github.com/khanoftexas/Mission-To-Mars
 
 13 | Project Two - Endangered Animals - ETL<br> Group Members: Ehsan Khan, Jeff Mackey, Lei Kang, Saurav Mitra <br />Repo: https://github.com/khanoftexas/etl
+
+14 | Assignment - JavaScript and DOM Manipulation<br />  Repo: https://github.com/khanoftexas/UFO-Sightings
