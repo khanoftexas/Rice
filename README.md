@@ -30,3 +30,6 @@
 14 | Assignment - JavaScript and DOM Manipulation<br />  Repo: https://github.com/khanoftexas/UFO-Sightings
 
 15 | Assignment - Interactive-Visualizations-and-Dashboards<br />  Repo: https://github.com/khanoftexas/biodiversity<br /> Heroku App location: https://biodiversityheroku.herokuapp.com/
+
+16 | Assignment - Data Journalism and D3<br />  Repo: https://github.com/khanoftexas/demographics
+
