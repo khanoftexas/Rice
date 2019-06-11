@@ -1,5 +1,5 @@
 
-# Rice University Data Analytics Bootcamp
+# Rice University Data Analytics & Visualization Bootcamp
 
 1 | Assignment - KickStart My Chart<br/>https://github.com/khanoftexas/DataAnalytics
 
