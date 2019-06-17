@@ -33,3 +33,6 @@
 
 16 | Assignment - Data Journalism and D3<br />  Repo: https://github.com/khanoftexas/demographics
 
+17 | Assignment - Visualizing Data with Leaflet<br />
+Repo: https://github.com/khanoftexas/Earthquakes-Visualization
+
