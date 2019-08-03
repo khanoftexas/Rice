@@ -40,6 +40,6 @@ Repo: https://github.com/khanoftexas/Earthquakes-Visualization
 Repo: https://github.com/khanoftexas/Citi-Bike-Tableau<br />
 Tableau Visualization :   https://tinyurl.com/yxhoqvz5
 
-Final Project - NBA Drat Prediction with Machine Learning <br />
+Final Project - NBA Draft Prediction with Machine Learning <br />
 Repo:  https://github.com/andrewfrilot/NBA_Scout<br /> Heroku App location: https://nbascout.herokuapp.com/
 
