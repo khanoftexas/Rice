@@ -41,5 +41,6 @@ Repo: https://github.com/khanoftexas/Citi-Bike-Tableau<br />
 Tableau Visualization :   https://tinyurl.com/yxhoqvz5
 
 Final Project - NBA Draft Prediction with Machine Learning <br />
+Group Members: Logan Fitzpatrick, Andrew Frilot, Ehsan Khan, Ovais Patoli, Karista Williams<br /> 
 Repo:  https://github.com/andrewfrilot/NBA_Scout<br /> Heroku App location: https://nbascout.herokuapp.com/
 
